@@ -3,6 +3,9 @@ A simple Tool to change the MAC Address of your hardware, in the registry. Compl
 
 <img width="647" height="632" alt="mat" src="https://github.com/user-attachments/assets/8d1c1701-a808-4624-8f2c-91eb3d16a19a" />
 
+Download the Release if you dont want to build yourself:
+<link>https://github.com/EmreayZ-sys/M.A.T/releases/tag/MAC</link>
+
 
 Make sure you have NET 8 on your machine, then Build like usual.
 
